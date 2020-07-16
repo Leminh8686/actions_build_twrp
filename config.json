@@ -10,7 +10,7 @@
   "dt_path": "device/xiaomi/vince",
   "device_code": "vince",
   "fix_product": true,
-  "fix_misscom": false,
+  "fix_misscom": true,
   "fix_busybox": false,
   "fix_branch": "android-9.0"
 }
