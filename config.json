@@ -1,6 +1,6 @@
 {
   "twrp_url": "https://gitlab.com/OrangeFox/Manifest.git",
-  "twrp_branch": "fox_9.0",
+  "twrp_branch": "fox_8.1",
   "git_username": "quantongxue",
   "git_email": "dq75646802@163.com",
   "use_own_dt": true,
@@ -12,5 +12,5 @@
   "fix_product": true,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_branch": "android-8.1"
 }
