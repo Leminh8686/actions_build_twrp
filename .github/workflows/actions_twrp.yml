@@ -47,7 +47,7 @@ jobs:
         curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
         chmod a+x ~/bin/repo
     - name: Initialize Repair Manifest
-      run: git clone https://github.com/TeamWin/buildtree_manifests.git repair/
+      run: git clone https://github.com/quantongxue/buildtree_manifests.git repair/
     - name: Initialize a Repo client
       run: |
         PATH=~/bin:$PATH
