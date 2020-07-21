@@ -4,7 +4,7 @@
   "git_username": "quantongxue",
   "git_email": "dq75646802@163.com",
   "use_own_dt": true,
-  "dt_url": "https://gitlab.com/OrangeFox/device/whyred",
+  "dt_url": "https://gitlab.com/OrangeFox/device/whyred.git",
   "dt_branch": "fox_9.0",
   "dt_remote": "gitlab",
   "dt_path": "device/xiaomi/whyred",
