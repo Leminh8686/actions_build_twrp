@@ -1,16 +1,16 @@
 {
-  "twrp_url": "git://github.com/SKYHAWK-Recovery-Project/platform_manifest_twrp_omni.git",
+  "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
   "twrp_branch": "android-9.0",
   "git_username": "Leminh8686",
   "git_email": "19506021+Leminh8686@users.noreply.github.com",
   "use_own_dt": true,
-  "dt_url": "Leminh8686/device_xiaomi_picasso_recovery",
-  "dt_branch": "android-10.0_shrp",
+  "dt_url": "Leminh8686/android_device_vsmart_V430A-TWRP",
+  "dt_branch": "1",
   "dt_remote": "github",
-  "dt_path": "device/xiaomi/picasso",
-  "device_code": "picasso",
+  "dt_path": "device/vsmart/V430A",
+  "device_code": "V430A",
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": false,
+  "fix_branch": "android-9.0"
 }
