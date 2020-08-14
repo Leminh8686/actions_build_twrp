@@ -1,16 +1,16 @@
 {
-  "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
-  "twrp_branch": "twrp-10.0",
+  "twrp_url": "https://github.com/masemoel/device_xiaomi_picasso_recovery",
+  "twrp_branch": "android-9.0",
   "git_username": "Leminh8686",
   "git_email": "19506021+Leminh8686@users.noreply.github.com",
   "use_own_dt": true,
-  "dt_url": "Leminh8686/twrp_xiaomi_lmi",
-  "dt_branch": "android-10.0",
+  "dt_url": "Leminh8686/device_xiaomi_picasso_recovery",
+  "dt_branch": "android-10.0_shrp",
   "dt_remote": "github",
-  "dt_path": "device/xiaomi/lmi",
-  "device_code": "lmi",
+  "dt_path": "device/xiaomi/picasso",
+  "device_code": "picasso",
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_branch": false,
 }
