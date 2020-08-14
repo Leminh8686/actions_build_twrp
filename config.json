@@ -1,5 +1,5 @@
 {
-  "twrp_url": "https://github.com/masemoel/device_xiaomi_picasso_recovery",
+  "twrp_url": "git://github.com/SKYHAWK-Recovery-Project/platform_manifest_twrp_omni.git",
   "twrp_branch": "android-9.0",
   "git_username": "Leminh8686",
   "git_email": "19506021+Leminh8686@users.noreply.github.com",
